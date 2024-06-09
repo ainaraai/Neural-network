@@ -1,0 +1,7 @@
+path: '/content/drive/MyDrive/YOLOtrainATA'
+train: images
+val: images
+
+#Clases of detectection
+names:
+  0: metal
